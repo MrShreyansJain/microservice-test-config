@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: "Loans"
+
+build:
+  info: "30.0"
+
+
+
+
+
+

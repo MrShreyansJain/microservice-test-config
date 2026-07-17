@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: "Cards"
+build:
+  info: "3.0"
+
+
+
+
+
+
+
+
+
+
+

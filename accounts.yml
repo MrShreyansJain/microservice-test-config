@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: "Accounts"
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Galaxy account related to local API"
+  contactDetails:
+    name: "Shreyans- jain Dev"
+    email: "shrey@test"
+  onCallSupport:
+    - "(555) 8956-35629"
+    - "(555) 8956-35630"
+
+
+
+
+
+
