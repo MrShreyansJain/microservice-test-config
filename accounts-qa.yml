@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Galaxy account related to QA API"
   contactDetails:
-    name: "Shreyans- jain QA"
+    name: "Shreyans- jain Quality"
     email: "shrey@QAtest"
   onCallSupport:
     - "(555) 8956-43623"
