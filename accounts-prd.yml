@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Galaxy account related to PRD API"
   contactDetails:
     name: "Shreyans- jain PRD"
-    email: "shrey@PRDtest"
+    email: "{cipher}5262761e6a1d47b06e4c9b7cf3e862beaa05ce943730ffb13aaf0ed964d456b0"
   onCallSupport:
     - "(555) 8956-89898"
     - "(555) 8956-89889"
