@@ -2,7 +2,7 @@ build:
   version: "2.0_ACC_QA"
 
 accounts:
-  message: "Welcome to Galaxy account related to QA API"
+  message: "Welcome to Galaxy account related to QA docker API"
   contactDetails:
     name: "Shreyans- jain Quality"
     email: "shrey@QAtest"
